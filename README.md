@@ -8,6 +8,7 @@ The goal of this project is to visualize public salary trends for research and a
 
 ## Future Improvements: 
 - Include data from other universities within the US nation
+- Add data about economic trends
 - Include data from other public organizations
 - Revise dashboard design to more generalized headings to accomodate other public organizations
 
