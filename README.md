@@ -1,6 +1,6 @@
 # PublicStaffingPatternsGU
 
-![PublicStaffingDashboard](resources/publicstaffingpatternsgu.PNG)
+![PublicStaffingDashboard](resources/UOGStaffingPatterns.JPG)
 
 ## Purpose
 The goal of this project is to visualize public salary trends for research and analysis, which may hint toward wage stagnation vs inflation.
