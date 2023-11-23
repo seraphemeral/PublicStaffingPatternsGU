@@ -8,7 +8,7 @@ The goal of this project is to visualize public salary trends for research and a
 ## Considerations
 A Python script was used to parse salary data from the public PDF files.
 
-## Done
+## Public Staffing Patterns Captured
 - University of Guam (2014-2020)
 
 ## Future Improvements 
