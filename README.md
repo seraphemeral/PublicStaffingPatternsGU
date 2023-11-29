@@ -7,7 +7,9 @@ The goal of this project is to visualize University of Guam salary trends for re
 This dashboard was built for BA-610 Managerial Economics.
 
 ## Outcome
-The findings of the project presented evidence toward wage stagnation vs inflation with an outdated pay scale that resulted in salary inversions where new-hires are recruited at the tail end of a pay scale, limiting their future salary progression. The project was presented to UOG Faculty Union Head, Dr. Roseann Jones, which contributed toward successful negotiations for a 22% pay increase.
+The findings of the project presented evidence toward wage stagnation vs inflation with an outdated pay scale that resulted in salary inversions where new-hires are recruited at the tail end of a pay scale, limiting their future salary progression which contributed toward lower faculty retention.
+
+The project was presented to UOG Faculty Union Head, Dr. Roseann Jones, which contributed toward successful negotiations for a 22% pay increase and a restructuring of the existing pay scale.
 https://www.guampdn.com/news/uog-board-approves-22-salary-raises-for-classified-workers/article_2584304c-5e90-11ee-b603-1b546ab5cd0f.html
 
 ## Approach
