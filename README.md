@@ -1,6 +1,6 @@
 # PublicStaffingPatternsGU
 
-![PublicStaffingDashboard](resources/publicstaffingpatternsgu.PNG)
+![PublicStaffingDashboard](resources/UOGStaffingPatterns.JPG)
 
 ## Purpose
 The goal of this project is to visualize University of Guam salary trends for research and analysis.
@@ -13,7 +13,8 @@ The project was presented to UOG Faculty Union Head, Dr. Roseann Jones, which co
 https://www.guampdn.com/news/uog-board-approves-22-salary-raises-for-classified-workers/article_2584304c-5e90-11ee-b603-1b546ab5cd0f.html
 
 ## Approach
-A Python script was used to parse salary data from the public staffing patterns PDF files to convert to Excel. 
+1. A Python script was used to parse salary data from public staffing patterns PDF files to convert to Excel.
+2. This Excel data was used to ingest into a Power BI dashboard for visualizations presented in our project report.
 
 ## Done
 - University of Guam (2014-2020)
